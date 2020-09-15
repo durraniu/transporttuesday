@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Transport Tuesday</title>
+    <link>/</link>
+    <description>Recent content on Transport Tuesday</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome to transport-tuesday</title>
+      <link>/2020/09/welcome-to-transport-tuesday.en-us/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/09/welcome-to-transport-tuesday.en-us/</guid>
+      <description>This blog is all about Transportation:
+engineering
+planning
+driver-behavior
+data-analysis
+safetyIdeally, I will talk about transportation science and/or engineering every Tuesday.
+Check out my previous blog posts on the Home page and feel free to send a tweet my way any time.</description>
+    </item>
+    
+  </channel>
+</rss>

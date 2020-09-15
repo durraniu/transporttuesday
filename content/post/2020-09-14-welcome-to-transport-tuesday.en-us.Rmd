@@ -1,0 +1,25 @@
+---
+title: Welcome to transport-tuesday
+author: Umair Durrani
+date: '2020-09-14'
+slug: welcome-to-transport-tuesday.en-us
+categories: []
+tags: []
+keywords:
+  - tech
+---
+
+This blog is all about `Transportation`:  
+
+*  engineering  
+*  planning  
+*  driver-behavior  
+*  data-analysis  
+*  safety
+  
+Ideally, I will talk about transportation science and/or engineering every Tuesday. 
+
+Check out my previous blog posts on the Home page and feel free to send a tweet my way any time.  
+
+
+![](https://media.giphy.com/media/13cxo0hrHcMdzO/giphy.gif)
